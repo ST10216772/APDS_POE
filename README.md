@@ -1,10 +1,9 @@
 
-  ![Hero Bank (1)](https://github.com/user-attachments/assets/dce79e28-e1d6-4787-91af-3647b4f3040e)
-
+![TALHAH MOTALA  LUBNAH OLIDEEN](https://github.com/user-attachments/assets/38b2ad64-1376-43a8-8a8e-207d4cfdf5b4)
 
 👥 **Group Members:**  
 - Talhah Motala - ST10146418  
-- Lubnah Olideen - ST10216772  .
+- Lubnah Olideen - ST10216772
 
 🎥 **Project Demonstration Link:**  
 [Watch Demo](https://1drv.ms/v/s!Ag9Xg-EcWzjcgsIvBocYMZfdJVdMeg?e=rwErC3)
