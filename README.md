@@ -3,7 +3,7 @@
 
 👥 **Group Members:**  
 - Talhah Motala - ST10146418  
-- Lubnah Olideen - ST10216772
+- Lubnah Olideen - ST10216772  
 
 🎥 **Project Demonstration Link:**  
 [Watch Demo](https://1drv.ms/v/s!Ag9Xg-EcWzjcgsIvBocYMZfdJVdMeg?e=rwErC3)
@@ -29,6 +29,62 @@ The **Hero Bank Website** is a sleek and user-friendly financial platform design
 
 - **⚡ Performance Optimized**  
   Experience lightning-fast load times and smooth navigation with a performance-first approach.
+
+---
+
+### 🚀 Part 3 Features
+
+- **🔑 Static Login for Employees**  
+  Employees log in with preconfigured accounts secured by hashed and salted passwords.
+
+- **📋 Transaction Dashboard**  
+  Employees can view pending transactions and take appropriate actions, such as verifying transactions or submitting them for SWIFT processing.
+
+- **✔️ Transaction Verification**  
+  Transactions can be marked as "Verified" by employees before submission.
+
+- **🌍 SWIFT Submission**  
+  Verified transactions are seamlessly submitted to the SWIFT system for processing.
+
+- **🛡️ Advanced Security Implementation**  
+  - Middleware for secure routing and request handling.
+  - Input validation using **bcrypt** and **regex patterns**.
+  - JWT-based authentication for secure sessions.
+  - SSL/TLS configuration to encrypt HTTP traffic.
+  - Error handling to ensure smooth operations.
+  - Password hashing and salting for secure data storage.
+
+- **🔍 DevSecOps Pipeline**  
+  - Integrated with **SonarQube** to scan for vulnerabilities, code smells, and maintainability issues.
+  - Automated pipeline setup using **CircleCI**, ensuring continuous integration and delivery.
+
+- **🧪 Unit Tests**  
+  - Login functionality tested (`LoginTest`).
+  - Password security tested (`PasswordTest`).
+  - User functionalities tested (`UserTest`).
+
+---
+
+## 🖼️ Screenshots
+
+### CircleCI Pipeline Overview:
+_(Add a screenshot of the CircleCI pipeline running successfully.)_
+
+![Pipeline Overview Placeholder](https://via.placeholder.com/800x400?text=Add+Pipeline+Screenshot+Here)
+
+---
+
+### SonarQube Scan Results:
+_(Add a screenshot of SonarQube showing code analysis results.)_
+
+![SonarQube Results Placeholder](https://via.placeholder.com/800x400?text=Add+SonarQube+Screenshot+Here)
+
+---
+
+### Integrated Workflow:
+_(Add a screenshot showing CircleCI and SonarQube working together.)_
+
+![Integrated Workflow Placeholder](https://via.placeholder.com/800x400?text=Add+Integrated+Workflow+Screenshot+Here)
 
 ---
 
