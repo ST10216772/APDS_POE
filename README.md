@@ -84,7 +84,7 @@ Ensure you have [Node.js](https://nodejs.org/) installed to manage dependencies 
 
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/VCDN-2024/opsc7312-part-2-ST10216772.git
+   git clone https://github.com/ST10216772/APDS_POE.git
    ```
 
 2. Navigate into the project directory:  
