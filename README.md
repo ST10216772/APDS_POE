@@ -139,14 +139,6 @@ This will launch the test runner in watch mode, ensuring everything is functioni
 ## 🌍 Deployment
 
 You can deploy the app to platforms like [Vercel](https://vercel.com/), [Netlify](https://www.netlify.com/), or any other static hosting service.  
-Refer to the [Create React App documentation](https://facebook.github.io/create-react-app/docs/deployment) for detailed instructions.
-
----
-
-## 📚 Learn More
-
-- 🌐 [React Documentation](https://reactjs.org/)  
-- 📘 [Create React App Documentation](https://facebook.github.io/create-react-app/docs/getting-started)
 
 ---
 
