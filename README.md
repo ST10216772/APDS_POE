@@ -67,26 +67,10 @@ The **Hero Bank Website** is a sleek and user-friendly financial platform design
 
 ## 🖼️ Screenshots
 
-### CircleCI Pipeline Overview:
-_(Add a screenshot of the CircleCI pipeline running successfully.)_
+### CircleCI Pipeline & SonarQube Results :
+![Screenshot 2024-11-11 155032](https://github.com/user-attachments/assets/987dee76-faf7-4f30-89e4-6fddef676a91)
+![Screenshot 2024-11-11 170135](https://github.com/user-attachments/assets/780d50fa-b5f0-4b8e-8b90-4ee3d960bec5)
 
-![Pipeline Overview Placeholder](https://via.placeholder.com/800x400?text=Add+Pipeline+Screenshot+Here)
-
----
-
-### SonarQube Scan Results:
-_(Add a screenshot of SonarQube showing code analysis results.)_
-
-![SonarQube Results Placeholder](https://via.placeholder.com/800x400?text=Add+SonarQube+Screenshot+Here)
-
----
-
-### Integrated Workflow:
-_(Add a screenshot showing CircleCI and SonarQube working together.)_
-
-![Integrated Workflow Placeholder](https://via.placeholder.com/800x400?text=Add+Integrated+Workflow+Screenshot+Here)
-
----
 
 ## 🛠️ Getting Started
 
